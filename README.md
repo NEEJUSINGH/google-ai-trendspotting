@@ -30,13 +30,19 @@ The goal is to help businesses, researchers, and policymakers make **data-driven
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
+```bash
 
+google-ai-trendspotting/
+│
+├── data/ # Raw and processed datasets (gitignored)
+├── notebooks/ # Jupyter notebooks for exploration & modeling
+├── src/ # Python scripts for data processing & modeling
+├── docs/ # Documentation and resources
+├── .gitignore # Ignored files list
+└── README.md # Project description
 
-
-
-
-
+```
 
 ---
 
