@@ -56,9 +56,9 @@ google-ai-trendspotting/
 ##  Project Timeline
 | Milestone | Target Date | Description |
 |-----------|------------|-------------|
-| Milestone 1 | ???? | Data collection, preprocessing, EDA |
-| Milestone 2 | ???? | Build & evaluate initial ML models |
-| Milestone 3 | ???? | Finalize model, document results, presentation |
+| Milestone 1 | 9/30 | Data collection, preprocessing, EDA |
+| Milestone 2 | 10/31 | Build & evaluate initial ML models |
+| Milestone 3 | 11/30 | Finalize model, document results, presentation |
 
 ---
 
